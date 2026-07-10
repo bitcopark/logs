@@ -1,0 +1,1 @@
+git tag | % { git push origin $_ --force }
